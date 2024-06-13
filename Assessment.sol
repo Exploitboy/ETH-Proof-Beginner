@@ -3,8 +3,8 @@ pragma solidity 0.8.26;
 
 contract MyToken {
     // Public variables to store token details
-    string public tokenName = "New Coin";
-    string public tokenAbbrv = "NC";
+    string public tokenName = "Old Coin";
+    string public tokenAbbrv = "OC";
     uint public totalSupply = 0;
 
     // Mapping to store balances of addresses
