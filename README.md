@@ -1,11 +1,11 @@
 # ETH-Proof-Beginner
 
 # Old Coin (OC) Token Smart Contract
-<p>This Solidity smart contract implements the Old Coin (DC) token as an ERC-20 standard token on the Ethereum blockchain.</p>
+<p>This Solidity smart contract implements the Old Coin (OC) token as an ERC-20 standard token on the Ethereum blockchain.</p>
 
 # Token Details
-  Token Name: Deadly Coin
-  Token Symbol: DC
+  Token Name: Old Coin
+  Token Symbol: OC
   Initial Total Supply: 0
   
 # Contract Functions
