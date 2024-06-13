@@ -1,7 +1,7 @@
 # ETH-Proof-Beginner
 
-# Deadly Coin (DC) Token Smart Contract
-<p>This Solidity smart contract implements the Deadly Coin (DC) token as an ERC-20 standard token on the Ethereum blockchain.</p>
+# Old Coin (OC) Token Smart Contract
+<p>This Solidity smart contract implements the Old Coin (DC) token as an ERC-20 standard token on the Ethereum blockchain.</p>
 
 # Token Details
   Token Name: Deadly Coin
